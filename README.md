@@ -1,2 +1,2 @@
-# gatebible.github.io
-Gate Bible Study
+# Gate Bible Study
+This is the home of Gate Bible Study.
