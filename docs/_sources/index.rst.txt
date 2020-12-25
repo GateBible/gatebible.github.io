@@ -16,4 +16,10 @@ Indices and tables
 * :ref:`search`
 
 .. _Yes You Can Use GitHub Pages with Python Sphinx: https://www.docslikecode.com/articles/github-pages-python-sphinx/
- 
+
+.. toctree::
+   :caption: Table of Contents
+   :name: mastertoc
+   :maxdepth: 2
+
+   church/index
